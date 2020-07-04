@@ -1,7 +1,5 @@
-# Mision-Secundaria-1
-## Investigación sobre JavaFX
 
-Repositiro de la actividad de investigación sobre JavaFX y Java Swing
+Repositorio de la actividad de investigación sobre JavaFX y Java Swing
 
 Desarrollo lo siguiente:
   * Investigar el funcionamiento, contexto, sintaxis de JavaFX.
